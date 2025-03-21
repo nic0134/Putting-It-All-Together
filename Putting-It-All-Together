@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevOps Strategic Priorities: Systems, UX, and Bias</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>DevOps Strategic Priorities</h1>
+        <nav>
+            <ul>
+                <li><a href="#systems-design">Systems Design</a></li>
+                <li><a href="#content-architecture">Content & Architecture</a></li>
+                <li><a href="#ux-design">UX & Visual Design</a></li>
+                <li><a href="#bias">Bias in DevOps</a></li>
+                <li><a href="#sources">Sources</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="systems-design">
+        <h2>Systems Design, Engineering & Organization</h2>
+        <img src="systems-design.jpg" alt="Systems Design Illustration">
+        <p>Systems design is the foundation of any DevOps strategy. It focuses on creating scalable, efficient, and secure software architectures that support seamless integration and deployment. By implementing cloud computing, microservices, and CI/CD pipelines, teams can enhance efficiency and reliability.</p>
+        <p><strong>Priority:</strong> Adopting scalable cloud-based solutions and automation to streamline development workflows.</p>
+    </section>
+    
+    <section id="content-architecture">
+        <h2>Content & Information Architecture</h2>
+        <img src="content-architecture.jpg" alt="Content Organization Diagram">
+        <p>Effective content and information architecture ensures users can find and access relevant data efficiently. This involves structuring digital environments with clear navigation, metadata organization, and user-centric content categorization.</p>
+        <p><strong>Priority:</strong> Ensuring intuitive navigation and information hierarchy to improve accessibility and usability.</p>
+    </section>
+    
+    <section id="ux-design">
+        <h2>User Experience & Visual Design</h2>
+        <img src="ux-design.jpg" alt="UX Design Principles">
+        <p>User experience (UX) design plays a crucial role in DevOps by ensuring seamless interactions between users and digital products. A well-designed interface enhances usability, engagement, and overall satisfaction.</p>
+        <p><strong>Priority:</strong> Implementing user-centered design practices to create intuitive and aesthetically pleasing interfaces.</p>
+    </section>
+    
+    <section id="bias">
+        <h2>Bias in DevOps</h2>
+        <img src="bias.jpg" alt="Bias in Technology Illustration">
+        <p>Bias in DevOps can manifest in AI models, hiring practices, and system designs. Addressing bias involves fostering diversity in development teams, ensuring ethical AI practices, and implementing bias detection tools.</p>
+        <p><strong>Priority:</strong> Promoting ethical AI practices and diverse representation in development teams to reduce bias.</p>
+    </section>
+    
+    <section id="sources">
+        <h2>References</h2>
+        <ul>
+            <li>Bass, L., Weber, I., & Zhu, L. (2015). <i>DevOps: A Software Architect’s Perspective</i>. Addison-Wesley. https://doi.org/10.5555/2804312</li>
+            <li>Garcia, S. M., & Kim, S. (2019). <i>Information Architecture: Designing for the Web and Beyond</i>. O'Reilly Media. https://www.oreilly.com/library/view/information-architecture/</li>
+            <li>Norman, D. (2013). <i>The Design of Everyday Things</i>. Basic Books. https://doi.org/10.1080/10447318.2014.936892</li>
+            <li>O'Neil, C. (2016). <i>Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</i>. Crown Publishing Group. https://doi.org/10.1080/01436597.2018.1550910</li>
+            <li>Fitzgerald, B., & Stol, K. J. (2017). <i>Continuous software engineering: A roadmap and agenda</i>. Journal of Systems and Software, 123, 176-189. https://doi.org/10.1016/j.jss.2015.06.063</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Maia | DevOps Strategy</p>
+    </footer>
+</body>
+</html>
